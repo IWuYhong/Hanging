@@ -1,6 +1,6 @@
 # Hanging
 
-[![N|Solid]( https://assets.stickpng.com/thumbs/62a74dd1223343fbc2207d00.png)](https://es.reactjs.org/)
+[![N|Solid](https://assets.stickpng.com/thumbs/62a74dd1223343fbc2207d00.png)](https://es.reactjs.org/)
 
 [![Build Status](https://travis-ci.org/joemccann/dillinger.svg?branch=master)](https://github.com/IWuYhong/Hanging/)
 
